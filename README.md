@@ -1,0 +1,2 @@
+# javascript-fosterate-training
+javascript
